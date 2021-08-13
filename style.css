@@ -11,6 +11,10 @@ background-color: darkgreen;
     justify-content: space-evenly
 }
 
+img {
+    height: 10%;
+}
+
 h1 {
     color: darkgreen;
     font-size: 50px;
@@ -25,11 +29,14 @@ h2 {
     font-size: 40px;
 }
 
+.blanka {
+    width: 10%;
+}
 
 #welcome {
     background-color: black;
 }
 
 #game {
-    width: 50%;
+    width: 10%;
 }
